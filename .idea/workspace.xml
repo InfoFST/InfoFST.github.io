@@ -2,115 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b833351-0d6f-4fd7-85a9-9c40c0bab0e7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/1.png" afterPath="$PROJECT_DIR$/img/1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/2.png" afterPath="$PROJECT_DIR$/img/2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/3.png" afterPath="$PROJECT_DIR$/img/3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/bg_direction_nav.png" afterPath="$PROJECT_DIR$/img/bg_direction_nav.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/blog/blog-thumb-1.jpg" afterPath="$PROJECT_DIR$/img/blog/blog-thumb-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/blog/blog-thumb-2.jpg" afterPath="$PROJECT_DIR$/img/blog/blog-thumb-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/blog/blog-thumb-3.jpg" afterPath="$PROJECT_DIR$/img/blog/blog-thumb-3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/blog/img3.jpg" afterPath="$PROJECT_DIR$/img/blog/img3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/blog/img4.jpg" afterPath="$PROJECT_DIR$/img/blog/img4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/blog/img5.jpg" afterPath="$PROJECT_DIR$/img/blog/img5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/blog/img6.jpg" afterPath="$PROJECT_DIR$/img/blog/img6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/blog/img7.jpg" afterPath="$PROJECT_DIR$/img/blog/img7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/blog/img8.jpg" afterPath="$PROJECT_DIR$/img/blog/img8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/clients/graylogo6.png" afterPath="$PROJECT_DIR$/img/clients/graylogo6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/clients/newlogo6.png" afterPath="$PROJECT_DIR$/img/clients/newlogo6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/ipadwhite.png" afterPath="$PROJECT_DIR$/img/ipadwhite.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/link-icon.png" afterPath="$PROJECT_DIR$/img/link-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/mob1.png" afterPath="$PROJECT_DIR$/img/mob1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/nbg.jpg" afterPath="$PROJECT_DIR$/img/nbg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/parallax-slider/images/1.png" afterPath="$PROJECT_DIR$/img/parallax-slider/images/1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/parallax-slider/images/12.png" afterPath="$PROJECT_DIR$/img/parallax-slider/images/12.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/parallax-slider/images/2.png" afterPath="$PROJECT_DIR$/img/parallax-slider/images/2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/parallax-slider/images/21.png" afterPath="$PROJECT_DIR$/img/parallax-slider/images/21.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/parallax-slider/images/3.png" afterPath="$PROJECT_DIR$/img/parallax-slider/images/3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/parallax-slider/images/31.png" afterPath="$PROJECT_DIR$/img/parallax-slider/images/31.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/parallax-slider/images/4.png" afterPath="$PROJECT_DIR$/img/parallax-slider/images/4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/parallax-slider/images/arrows.png" afterPath="$PROJECT_DIR$/img/parallax-slider/images/arrows.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/parallax-slider/images/bg.png" afterPath="$PROJECT_DIR$/img/parallax-slider/images/bg.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/parallax-slider/images/main-bg.jpg" afterPath="$PROJECT_DIR$/img/parallax-slider/images/main-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/parallax-slider/images/waves.gif" afterPath="$PROJECT_DIR$/img/parallax-slider/images/waves.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/person_1.png" afterPath="$PROJECT_DIR$/img/person_1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/person_2.png" afterPath="$PROJECT_DIR$/img/person_2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/person_3.png" afterPath="$PROJECT_DIR$/img/person_3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolios/app/1.jpg" afterPath="$PROJECT_DIR$/img/portfolios/app/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolios/app/2.jpg" afterPath="$PROJECT_DIR$/img/portfolios/app/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolios/app/3.jpg" afterPath="$PROJECT_DIR$/img/portfolios/app/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolios/app/4.jpg" afterPath="$PROJECT_DIR$/img/portfolios/app/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolios/app/5.jpg" afterPath="$PROJECT_DIR$/img/portfolios/app/5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolios/card/1.jpg" afterPath="$PROJECT_DIR$/img/portfolios/card/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolios/card/2.jpg" afterPath="$PROJECT_DIR$/img/portfolios/card/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolios/card/3.jpg" afterPath="$PROJECT_DIR$/img/portfolios/card/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolios/card/4.jpg" afterPath="$PROJECT_DIR$/img/portfolios/card/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolios/icon/1.jpg" afterPath="$PROJECT_DIR$/img/portfolios/icon/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolios/icon/2.jpg" afterPath="$PROJECT_DIR$/img/portfolios/icon/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolios/icon/3.jpg" afterPath="$PROJECT_DIR$/img/portfolios/icon/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolios/icon/4.jpg" afterPath="$PROJECT_DIR$/img/portfolios/icon/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolios/icon/5.jpg" afterPath="$PROJECT_DIR$/img/portfolios/icon/5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolios/logo/1.jpg" afterPath="$PROJECT_DIR$/img/portfolios/logo/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolios/logo/2.jpg" afterPath="$PROJECT_DIR$/img/portfolios/logo/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolios/logo/3.jpg" afterPath="$PROJECT_DIR$/img/portfolios/logo/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolios/logo/4.jpg" afterPath="$PROJECT_DIR$/img/portfolios/logo/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolios/logo/5.jpg" afterPath="$PROJECT_DIR$/img/portfolios/logo/5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolios/logo/6.jpg" afterPath="$PROJECT_DIR$/img/portfolios/logo/6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolios/logo/7.jpg" afterPath="$PROJECT_DIR$/img/portfolios/logo/7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolios/web/1.jpg" afterPath="$PROJECT_DIR$/img/portfolios/web/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolios/web/2.jpg" afterPath="$PROJECT_DIR$/img/portfolios/web/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolios/web/3.jpg" afterPath="$PROJECT_DIR$/img/portfolios/web/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolios/web/4.jpg" afterPath="$PROJECT_DIR$/img/portfolios/web/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/product1.jpg" afterPath="$PROJECT_DIR$/img/product1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/product2.jpg" afterPath="$PROJECT_DIR$/img/product2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/search-icon.jpg" afterPath="$PROJECT_DIR$/img/search-icon.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/search-icon.png" afterPath="$PROJECT_DIR$/img/search-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/seq-slider/abstract-16729_1920.jpg" afterPath="$PROJECT_DIR$/img/seq-slider/abstract-16729_1920.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/seq-slider/aeroplane.png" afterPath="$PROJECT_DIR$/img/seq-slider/aeroplane.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/seq-slider/balloon.png" afterPath="$PROJECT_DIR$/img/seq-slider/balloon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/seq-slider/bg-clouds.png" afterPath="$PROJECT_DIR$/img/seq-slider/bg-clouds.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/seq-slider/bg-controls.png" afterPath="$PROJECT_DIR$/img/seq-slider/bg-controls.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/seq-slider/bg-sky.png" afterPath="$PROJECT_DIR$/img/seq-slider/bg-sky.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/seq-slider/bt-next-a.png" afterPath="$PROJECT_DIR$/img/seq-slider/bt-next-a.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/seq-slider/bt-next-gr.png" afterPath="$PROJECT_DIR$/img/seq-slider/bt-next-gr.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/seq-slider/bt-next.png" afterPath="$PROJECT_DIR$/img/seq-slider/bt-next.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/seq-slider/bt-pause.png" afterPath="$PROJECT_DIR$/img/seq-slider/bt-pause.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/seq-slider/bt-play.png" afterPath="$PROJECT_DIR$/img/seq-slider/bt-play.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/seq-slider/bt-prev-a.png" afterPath="$PROJECT_DIR$/img/seq-slider/bt-prev-a.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/seq-slider/bt-prev-gr.png" afterPath="$PROJECT_DIR$/img/seq-slider/bt-prev-gr.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/seq-slider/bt-prev.png" afterPath="$PROJECT_DIR$/img/seq-slider/bt-prev.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/seq-slider/ipad-shadow.png" afterPath="$PROJECT_DIR$/img/seq-slider/ipad-shadow.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/seq-slider/ipad.png" afterPath="$PROJECT_DIR$/img/seq-slider/ipad.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/seq-slider/ipad2.png" afterPath="$PROJECT_DIR$/img/seq-slider/ipad2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/seq-slider/ipad_demo.png" afterPath="$PROJECT_DIR$/img/seq-slider/ipad_demo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/seq-slider/iphone-shadow.png" afterPath="$PROJECT_DIR$/img/seq-slider/iphone-shadow.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/seq-slider/iphone.png" afterPath="$PROJECT_DIR$/img/seq-slider/iphone.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/seq-slider/iphone_demo.png" afterPath="$PROJECT_DIR$/img/seq-slider/iphone_demo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/seq-slider/kite.png" afterPath="$PROJECT_DIR$/img/seq-slider/kite.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/seq-slider/pause-icon.png" afterPath="$PROJECT_DIR$/img/seq-slider/pause-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/seq-slider/sequence-logo.png" afterPath="$PROJECT_DIR$/img/seq-slider/sequence-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/seq-slider/status-bar.png" afterPath="$PROJECT_DIR$/img/seq-slider/status-bar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/service1.jpg" afterPath="$PROJECT_DIR$/img/service1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/service2.jpg" afterPath="$PROJECT_DIR$/img/service2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/service3.jpg" afterPath="$PROJECT_DIR$/img/service3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/service4.jpg" afterPath="$PROJECT_DIR$/img/service4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/service5.jpg" afterPath="$PROJECT_DIR$/img/service5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/tab1.png" afterPath="$PROJECT_DIR$/img/tab1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/team/bg.png" afterPath="$PROJECT_DIR$/img/team/bg.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/team/member1.jpg" afterPath="$PROJECT_DIR$/img/team/member1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/team/member2.jpg" afterPath="$PROJECT_DIR$/img/team/member2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/team/member3.jpg" afterPath="$PROJECT_DIR$/img/team/member3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/team/member4.jpg" afterPath="$PROJECT_DIR$/img/team/member4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/team/placeholder.gif" afterPath="$PROJECT_DIR$/img/team/placeholder.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/tg-black-bg.png" afterPath="$PROJECT_DIR$/img/tg-black-bg.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/triangle.png" afterPath="$PROJECT_DIR$/img/triangle.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/ttt.jpg" afterPath="$PROJECT_DIR$/img/ttt.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/works/img10.jpg" afterPath="$PROJECT_DIR$/img/works/img10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/works/img11.jpg" afterPath="$PROJECT_DIR$/img/works/img11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/works/img12.jpg" afterPath="$PROJECT_DIR$/img/works/img12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/works/img13.jpg" afterPath="$PROJECT_DIR$/img/works/img13.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/works/img8.jpg" afterPath="$PROJECT_DIR$/img/works/img8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/works/img9.jpg" afterPath="$PROJECT_DIR$/img/works/img9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/parallax-slider/images/ImageAttribution.txt" afterPath="$PROJECT_DIR$/img/parallax-slider/images/ImageAttribution.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="dimassimedwassim.github.io.iws" />
@@ -135,11 +26,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="105" column="51" selection-start-line="105" selection-start-column="51" selection-end-line="105" selection-end-column="51" />
+            <state relative-caret-position="437">
+              <caret line="219" column="0" selection-start-line="219" selection-start-column="0" selection-end-line="219" selection-end-column="0" />
               <folding>
-                <marker date="1468181980499" expanded="true" signature="1979:1993" ph="..." />
-                <marker date="1468181980499" expanded="true" signature="2030:2044" ph="..." />
+                <marker date="1468183948565" expanded="true" signature="1979:1993" ph="..." />
+                <marker date="1468183948565" expanded="true" signature="2030:2044" ph="..." />
               </folding>
             </state>
           </provider>
@@ -212,6 +103,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dimassimedwassim.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dimassimedwassim.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -233,12 +138,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1468181738912</updated>
-      <workItem from="1468181740061" duration="242000" />
+      <workItem from="1468181740061" duration="2246000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="242000" />
+    <option name="totallyTimeSpent" value="2246000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
@@ -272,11 +177,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="105" column="51" selection-start-line="105" selection-start-column="51" selection-end-line="105" selection-end-column="51" />
+        <state relative-caret-position="437">
+          <caret line="219" column="0" selection-start-line="219" selection-start-column="0" selection-end-line="219" selection-end-column="0" />
           <folding>
-            <marker date="1468181980499" expanded="true" signature="1979:1993" ph="..." />
-            <marker date="1468181980499" expanded="true" signature="2030:2044" ph="..." />
+            <marker date="1468183948565" expanded="true" signature="1979:1993" ph="..." />
+            <marker date="1468183948565" expanded="true" signature="2030:2044" ph="..." />
           </folding>
         </state>
       </provider>
