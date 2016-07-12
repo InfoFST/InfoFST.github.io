@@ -12,6 +12,14 @@ body {
     margin: 0px !important;
     font-size: 14px;
 }
+.images_petit {
+width:495px;
+height:304px;
+}
+.images_petit2 {
+width:427px;
+height:304px;
+}
 a,
 a:hover,
 a:focus {
