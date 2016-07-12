@@ -13,8 +13,12 @@ body {
     font-size: 14px;
 }
 .images_petit {
-width:420px;
-height:300px;
+width:495px;
+height:304px;
+}
+.images_petit2 {
+width:427px;
+height:304px;
 }
 a,
 a:hover,
